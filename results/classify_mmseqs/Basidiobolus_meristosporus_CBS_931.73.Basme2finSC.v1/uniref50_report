@@ -1,0 +1,84 @@
+0.2928	4	4	no rank	0	unclassified
+99.7072	1362	3	no rank	1	root
+99.4876	1359	46	no rank	131567	  cellular organisms
+95.6808	1307	355	superkingdom	2759	    Eukaryota
+69.5461	950	7	clade	33154	      Opisthokonta
+68.3016	933	313	kingdom	4751	        Fungi
+45.2416	618	28	no rank	112252	          Fungi incertae sedis
+42.1669	576	54	phylum	1913638	            Zoopagomycota
+37.5549	513	6	subphylum	1264859	              Entomophthoromycotina
+37.1157	507	0	class	1399768	                Basidiobolomycetes
+37.1157	507	0	order	1264872	                  Basidiobolales
+37.1157	507	0	family	4858	                    Basidiobolaceae
+37.1157	507	0	genus	4859	                      Basidiobolus
+37.1157	507	0	species	423460	                        Basidiobolus meristosporus
+37.1157	507	507	strain	1314790	                          Basidiobolus meristosporus CBS 931.73
+0.6589	9	0	subphylum	451828	              Kickxellomycotina
+0.6589	9	0	class	2219693	                Harpellomycetes
+0.6589	9	0	order	61421	                  Harpellales
+0.6589	9	0	family	4883	                    Legeriomycetaceae
+0.6589	9	8	genus	4888	                      Smittium
+0.0732	1	1	species	133412	                        Smittium culicis
+0.6589	9	2	phylum	1913637	            Mucoromycota
+0.4392	6	0	subphylum	451507	              Mucoromycotina
+0.3660	5	0	class	2212703	                Mucoromycetes
+0.3660	5	5	order	4827	                  Mucorales
+0.0732	1	0	class	2212702	                Endogonomycetes
+0.0732	1	0	order	4869	                  Endogonales
+0.0732	1	0	no rank	2052803	                    Endogonales incertae sedis
+0.0732	1	0	genus	2026842	                      Bifiguratus
+0.0732	1	1	species	1938954	                        Bifiguratus adelaidae
+0.0732	1	0	subphylum	214504	              Glomeromycotina
+0.0732	1	1	class	214506	                Glomeromycetes
+0.2928	4	0	phylum	4761	            Chytridiomycota
+0.2928	4	0	no rank	2683659	              Chytridiomycota incertae sedis
+0.2928	4	0	class	451435	                Chytridiomycetes
+0.2928	4	0	order	4810	                  Chytridiales
+0.2928	4	0	family	1352827	                    Chytriomycetaceae
+0.2928	4	0	genus	109967	                      Rhizoclosmatium
+0.2928	4	4	species	329046	                        Rhizoclosmatium globosum
+0.0732	1	0	phylum	1031332	            Cryptomycota
+0.0732	1	0	no rank	2683658	              Cryptomycota incertae sedis
+0.0732	1	0	genus	276836	                Rozella
+0.0732	1	0	species	281847	                  Rozella allomycis
+0.0732	1	1	strain	988480	                    Rozella allomycis CSF55
+0.1464	2	1	subkingdom	451864	          Dikarya
+0.0732	1	0	phylum	4890	            Ascomycota
+0.0732	1	0	subphylum	451866	              Taphrinomycotina
+0.0732	1	0	class	147554	                Schizosaccharomycetes
+0.0732	1	0	order	34346	                  Schizosaccharomycetales
+0.0732	1	0	family	4894	                    Schizosaccharomycetaceae
+0.0732	1	1	genus	4895	                      Schizosaccharomyces
+0.7321	10	2	kingdom	33208	        Metazoa
+0.5857	8	0	clade	6072	          Eumetazoa
+0.5857	8	1	clade	33213	            Bilateria
+0.5124	7	1	clade	33317	              Protostomia
+0.4392	6	0	clade	2697495	                Spiralia
+0.4392	6	0	clade	2697496	                  Gnathifera
+0.4392	6	0	phylum	10190	                    Rotifera
+0.4392	6	0	class	2816136	                      Eurotatoria
+0.4392	6	6	subclass	44578	                        Bdelloidea
+0.0732	1	0	kingdom	33090	      Viridiplantae
+0.0732	1	0	phylum	35493	        Streptophyta
+0.0732	1	0	subphylum	131221	          Streptophytina
+0.0732	1	0	clade	3193	            Embryophyta
+0.0732	1	0	clade	58023	              Tracheophyta
+0.0732	1	0	clade	78536	                Euphyllophyta
+0.0732	1	1	clade	58024	                  Spermatophyta
+0.0732	1	0	clade	2698737	      Sar
+0.0732	1	0	clade	33634	        Stramenopiles
+0.0732	1	0	phylum	4762	          Oomycota
+0.0732	1	0	order	4776	            Peronosporales
+0.0732	1	0	family	4777	              Peronosporaceae
+0.0732	1	1	genus	4783	                Phytophthora
+0.4392	6	2	superkingdom	2	    Bacteria
+0.2196	3	0	clade	1783270	      FCB group
+0.2196	3	0	clade	68336	        Bacteroidota/Chlorobiota group
+0.2196	3	0	phylum	976	          Bacteroidota
+0.2196	3	0	class	200643	            Bacteroidia
+0.2196	3	0	order	171549	              Bacteroidales
+0.2196	3	0	family	815	                Bacteroidaceae
+0.2196	3	0	genus	816	                  Bacteroides
+0.2196	3	3	species	817	                    Bacteroides fragilis
+0.0732	1	0	no rank	49928	      unclassified Bacteria
+0.0732	1	1	species	1869227	        bacterium
