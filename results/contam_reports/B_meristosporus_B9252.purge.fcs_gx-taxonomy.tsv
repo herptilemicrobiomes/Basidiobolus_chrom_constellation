@@ -1,0 +1,4 @@
+##[["FCS genome report", 2, 1], {"git-rev": "v0.4.0", "run-date": "Thu Apr 17 22:39:35 2025", "db": {"build-date": "2023-01-24", "seqs": 3025824, "Gbp": 709.264}, "run-info": {"agg-cvg": 0.432121, "asserted-div": "fung:fungi", "inferred-primary-divs": ["fung:fungi"], "corrected-primary-divs": ["fung:fungi"]}}]
+#seq_id	start_pos	end_pos	seq_len	action	div	agg_cont_cov	top_tax_name
+jcf7180001644605	1	459	459	EXCLUDE	synt:synthetic	100	synthetic
+jcf7180001645207	1	374	374	EXCLUDE	virs:prokaryotic viruses	66	n/a

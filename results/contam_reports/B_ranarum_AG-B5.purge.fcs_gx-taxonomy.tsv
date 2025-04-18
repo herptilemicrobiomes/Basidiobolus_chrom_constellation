@@ -1,0 +1,12 @@
+##[["FCS genome report", 2, 1], {"git-rev": "v0.4.0", "run-date": "Thu Apr 17 22:39:35 2025", "db": {"build-date": "2023-01-24", "seqs": 3025824, "Gbp": 709.264}, "run-info": {"agg-cvg": 0.323788, "asserted-div": "fung:fungi", "inferred-primary-divs": ["fung:fungi"], "corrected-primary-divs": ["fung:fungi"]}}]
+#seq_id	start_pos	end_pos	seq_len	action	div	agg_cont_cov	top_tax_name
+scaffold6097,2709,f10452Z2709	1	2709	2709	EXCLUDE	plnt:mosses	51	Physcomitrium patens
+scaffold7621,2077,f5686Z2077	1	2077	2077	EXCLUDE	plnt:mosses	88	Physcomitrium patens
+scaffold7865,2005,f9110Z2005	1	2005	2005	EXCLUDE	plnt:mosses	51	Ceratodon purpureus
+scaffold8920,1726,f7049Z1726	1	1726	1726	EXCLUDE	prok:g-proteobacteria	83	Pseudomonas gessardii
+scaffold9308,1636,f3124Z1636	1	1636	1636	EXCLUDE	plnt:mosses	66	Physcomitrium patens
+scaffold11081,1322,f11334Z1322	1	1322	1322	EXCLUDE	fung:ascomycetes	100	Neurospora crassa
+scaffold12779,1106,f9776Z1106	1	1106	1106	EXCLUDE	plnt:mosses	97	Ceratodon purpureus
+scaffold13414,1039,f502Z1039	1	1039	1039	EXCLUDE	plnt:mosses	85	Physcomitrium patens
+scaffold13439,1036,f2646Z1036	1	1036	1036	EXCLUDE	plnt:mosses	91	Ceratodon purpureus
+scaffold13686,1003,f6359Z1003	1	1003	1003	EXCLUDE	plnt:mosses	98	Ceratodon purpureus
