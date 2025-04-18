@@ -1,8 +1,8 @@
-51.3423	11054	11054	no rank	0	unclassified
-48.6577	10476	61	no rank	1	root
-48.3744	10415	1575	no rank	131567	  cellular organisms
-39.4752	8499	1296	superkingdom	2759	    Eukaryota
-30.0325	6466	217	clade	33154	      Opisthokonta
+51.3284	11051	11051	no rank	0	unclassified
+48.6716	10479	62	no rank	1	root
+48.3837	10417	1575	no rank	131567	  cellular organisms
+39.4844	8501	1295	superkingdom	2759	    Eukaryota
+30.0464	6469	217	clade	33154	      Opisthokonta
 26.1031	5620	603	kingdom	4751	        Fungi
 21.4584	4620	304	no rank	112252	          Fungi incertae sedis
 17.2271	3709	76	phylum	1913638	            Zoopagomycota
@@ -535,8 +535,8 @@
 0.0232	5	0	genus	5605	                  Saitoella
 0.0232	5	0	species	5606	                    Saitoella complicata
 0.0232	5	5	strain	698492	                      Saitoella complicata NRRL Y-17804
-2.9029	625	71	kingdom	33208	        Metazoa
-2.4942	537	30	clade	6072	          Eumetazoa
+2.9169	628	72	kingdom	33208	        Metazoa
+2.5035	539	30	clade	6072	          Eumetazoa
 2.0901	450	16	clade	33213	            Bilateria
 1.6721	360	8	clade	33317	              Protostomia
 1.2959	279	8	clade	1206794	                Ecdysozoa
@@ -1079,22 +1079,22 @@
 0.0046	1	0	family	10221	                    Harrimaniidae
 0.0046	1	0	genus	10222	                      Saccoglossus
 0.0046	1	1	species	10224	                        Saccoglossus kowalevskii
-0.2647	57	2	phylum	6073	            Cnidaria
-0.1486	32	2	class	6101	              Anthozoa
-0.1347	29	0	subclass	6132	                Octocorallia
-0.1347	29	0	order	3028843	                  Malacalcyonacea
-0.1347	29	0	family	44191	                    Plexauridae
-0.1347	29	0	genus	44196	                      Paramuricea
-0.1347	29	29	species	317549	                        Paramuricea clavata
+0.2740	59	2	phylum	6073	            Cnidaria
+0.1533	33	2	class	6101	              Anthozoa
+0.1393	30	0	subclass	6132	                Octocorallia
+0.1393	30	0	order	3028843	                  Malacalcyonacea
+0.1393	30	0	family	44191	                    Plexauridae
+0.1393	30	0	genus	44196	                      Paramuricea
+0.1393	30	30	species	317549	                        Paramuricea clavata
 0.0046	1	0	subclass	6102	                Hexacorallia
 0.0046	1	1	order	6125	                  Scleractinia
-0.1068	23	0	class	6074	              Hydrozoa
-0.1068	23	0	subclass	37516	                Hydroidolina
-0.1068	23	0	order	500008	                  Leptothecata
-0.1068	23	0	clade	2750049	                    Obeliida
-0.1068	23	0	family	2750048	                      Clytiidae
-0.1068	23	0	genus	13436	                        Clytia
-0.1068	23	23	species	252671	                          Clytia hemisphaerica
+0.1115	24	0	class	6074	              Hydrozoa
+0.1115	24	0	subclass	37516	                Hydroidolina
+0.1115	24	0	order	500008	                  Leptothecata
+0.1115	24	0	clade	2750049	                    Obeliida
+0.1115	24	0	family	2750048	                      Clytiidae
+0.1115	24	0	genus	13436	                        Clytia
+0.1115	24	24	species	252671	                          Clytia hemisphaerica
 0.0790	17	0	phylum	6040	          Porifera
 0.0743	16	0	class	6042	            Demospongiae
 0.0743	16	0	subclass	1779146	              Heteroscleromorpha

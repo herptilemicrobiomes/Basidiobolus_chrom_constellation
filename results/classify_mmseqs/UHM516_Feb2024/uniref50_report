@@ -1,0 +1,102 @@
+0.5910	10	10	no rank	0	unclassified
+99.4090	1682	14	no rank	1	root
+98.5816	1668	63	no rank	131567	  cellular organisms
+83.8061	1418	215	superkingdom	2759	    Eukaryota
+70.8629	1199	11	clade	33154	      Opisthokonta
+67.9669	1150	264	kingdom	4751	        Fungi
+50.8865	861	39	no rank	112252	          Fungi incertae sedis
+47.8723	810	53	phylum	1913638	            Zoopagomycota
+44.5035	753	6	subphylum	1264859	              Entomophthoromycotina
+44.1489	747	0	class	1399768	                Basidiobolomycetes
+44.1489	747	0	order	1264872	                  Basidiobolales
+44.1489	747	0	family	4858	                    Basidiobolaceae
+44.1489	747	0	genus	4859	                      Basidiobolus
+44.1489	747	0	species	423460	                        Basidiobolus meristosporus
+44.1489	747	747	strain	1314790	                          Basidiobolus meristosporus CBS 931.73
+0.2364	4	0	subphylum	451828	              Kickxellomycotina
+0.1773	3	0	class	2219693	                Harpellomycetes
+0.1773	3	0	order	61421	                  Harpellales
+0.1773	3	0	family	4883	                    Legeriomycetaceae
+0.1773	3	2	genus	4888	                      Smittium
+0.0591	1	1	species	133412	                        Smittium culicis
+0.0591	1	0	class	2219692	                Dimargaritomycetes
+0.0591	1	0	order	78918	                  Dimargaritales
+0.0591	1	0	family	78919	                    Dimargaritaceae
+0.0591	1	0	genus	78924	                      Dimargaris
+0.0591	1	1	species	215637	                        Dimargaris cristalligena
+0.5910	10	5	phylum	1913637	            Mucoromycota
+0.2955	5	1	subphylum	451507	              Mucoromycotina
+0.1773	3	0	class	2212703	                Mucoromycetes
+0.1773	3	1	order	4827	                  Mucorales
+0.1182	2	0	family	4851	                    Cunninghamellaceae
+0.1182	2	0	genus	4828	                      Absidia
+0.1182	2	2	species	4829	                        Absidia glauca
+0.0591	1	0	class	2212702	                Endogonomycetes
+0.0591	1	0	order	4869	                  Endogonales
+0.0591	1	0	no rank	2052803	                    Endogonales incertae sedis
+0.0591	1	0	genus	2026842	                      Bifiguratus
+0.0591	1	1	species	1938954	                        Bifiguratus adelaidae
+0.1182	2	0	phylum	1031332	            Cryptomycota
+0.1182	2	0	no rank	2683658	              Cryptomycota incertae sedis
+0.1182	2	0	genus	276836	                Rozella
+0.1182	2	0	species	281847	                  Rozella allomycis
+0.1182	2	2	strain	988480	                    Rozella allomycis CSF55
+1.4775	25	0	subkingdom	451864	          Dikarya
+1.4775	25	0	phylum	4890	            Ascomycota
+1.4775	25	0	clade	716545	              saccharomyceta
+1.4775	25	2	subphylum	147538	                Pezizomycotina
+1.3593	23	2	clade	716546	                  leotiomyceta
+1.1820	20	0	clade	715989	                    sordariomyceta
+1.1820	20	4	class	147550	                      Sordariomycetes
+0.9456	16	4	subclass	222543	                        Hypocreomycetidae
+0.7092	12	6	order	5125	                          Hypocreales
+0.3546	6	0	family	2502719	                            Sarocladiaceae
+0.3546	6	0	genus	284134	                              Sarocladium
+0.3546	6	6	species	5046	                                Sarocladium strictum
+0.0591	1	0	clade	715962	                    dothideomyceta
+0.0591	1	0	class	147541	                      Dothideomycetes
+0.0591	1	0	subclass	451868	                        Pleosporomycetidae
+0.0591	1	0	order	92860	                          Pleosporales
+0.0591	1	0	suborder	715340	                            Pleosporineae
+0.0591	1	1	family	28556	                              Pleosporaceae
+2.2459	38	2	kingdom	33208	        Metazoa
+2.1277	36	2	clade	6072	          Eumetazoa
+2.0095	34	0	clade	33213	            Bilateria
+2.0095	34	5	clade	33317	              Protostomia
+1.6548	28	0	clade	2697495	                Spiralia
+1.6548	28	0	clade	2697496	                  Gnathifera
+1.6548	28	0	phylum	10190	                    Rotifera
+1.6548	28	0	class	2816136	                      Eurotatoria
+1.6548	28	28	subclass	44578	                        Bdelloidea
+0.0591	1	0	clade	1206794	                Ecdysozoa
+0.0591	1	0	clade	88770	                  Panarthropoda
+0.0591	1	0	phylum	6656	                    Arthropoda
+0.0591	1	0	subphylum	6843	                      Chelicerata
+0.0591	1	0	class	6854	                        Arachnida
+0.0591	1	0	subclass	6933	                          Acari
+0.0591	1	0	superorder	6934	                            Parasitiformes
+0.0591	1	0	order	6935	                              Ixodida
+0.0591	1	1	superfamily	297308	                                Ixodoidea
+0.2364	4	0	kingdom	33090	      Viridiplantae
+0.2364	4	0	phylum	35493	        Streptophyta
+0.2364	4	0	subphylum	131221	          Streptophytina
+0.2364	4	1	clade	3193	            Embryophyta
+0.1773	3	0	clade	58023	              Tracheophyta
+0.1773	3	0	clade	78536	                Euphyllophyta
+0.1773	3	0	clade	58024	                  Spermatophyta
+0.1773	3	0	class	3398	                    Magnoliopsida
+0.1773	3	1	clade	1437183	                      Mesangiospermae
+0.1182	2	0	clade	71240	                        eudicotyledons
+0.1182	2	0	clade	91827	                          Gunneridae
+0.1182	2	2	clade	1437201	                            Pentapetalae
+11.0520	187	5	superkingdom	2	    Bacteria
+10.5792	179	0	clade	1783270	      FCB group
+10.5792	179	0	clade	68336	        Bacteroidota/Chlorobiota group
+10.5792	179	0	phylum	976	          Bacteroidota
+10.5792	179	0	class	200643	            Bacteroidia
+10.5792	179	0	order	171549	              Bacteroidales
+10.5792	179	0	family	815	                Bacteroidaceae
+10.5792	179	0	genus	816	                  Bacteroides
+10.5792	179	179	species	817	                    Bacteroides fragilis
+0.1773	3	0	no rank	49928	      unclassified Bacteria
+0.1773	3	3	species	1869227	        bacterium

@@ -1,0 +1,70 @@
+0.5439	7	7	no rank	0	unclassified
+99.4561	1280	0	no rank	1	root
+99.4561	1280	1	no rank	131567	  cellular organisms
+98.6791	1270	164	superkingdom	2759	    Eukaryota
+85.5478	1101	8	clade	33154	      Opisthokonta
+84.6931	1090	494	kingdom	4751	        Fungi
+46.3092	596	128	no rank	112252	          Fungi incertae sedis
+31.0800	400	30	phylum	1913638	            Zoopagomycota
+28.7490	370	4	subphylum	1264859	              Entomophthoromycotina
+28.4382	366	0	class	1399768	                Basidiobolomycetes
+28.4382	366	0	order	1264872	                  Basidiobolales
+28.4382	366	0	family	4858	                    Basidiobolaceae
+28.4382	366	0	genus	4859	                      Basidiobolus
+28.4382	366	0	species	423460	                        Basidiobolus meristosporus
+28.4382	366	366	strain	1314790	                          Basidiobolus meristosporus CBS 931.73
+5.1282	66	34	phylum	1913637	            Mucoromycota
+2.2533	29	0	subphylum	451507	              Mucoromycotina
+2.1756	28	0	class	2212703	                Mucoromycetes
+2.1756	28	28	order	4827	                  Mucorales
+0.0777	1	0	class	2212702	                Endogonomycetes
+0.0777	1	0	order	4869	                  Endogonales
+0.0777	1	1	family	4870	                    Endogonaceae
+0.2331	3	0	subphylum	1137986	              Mortierellomycotina
+0.2331	3	0	class	2212732	                Mortierellomycetes
+0.2331	3	0	order	214503	                  Mortierellales
+0.2331	3	0	family	4854	                    Mortierellaceae
+0.2331	3	0	genus	2779859	                      Entomortierella
+0.2331	3	3	species	205924	                        Entomortierella parvispora
+0.1554	2	0	phylum	4761	            Chytridiomycota
+0.1554	2	0	no rank	2683659	              Chytridiomycota incertae sedis
+0.1554	2	0	class	451435	                Chytridiomycetes
+0.1554	2	0	order	34478	                  Spizellomycetales
+0.1554	2	0	family	1134080	                    Powellomycetaceae
+0.1554	2	0	genus	109893	                      Powellomyces
+0.1554	2	2	species	109895	                        Powellomyces hirtus
+0.2331	3	1	kingdom	33208	        Metazoa
+0.1554	2	0	clade	6072	          Eumetazoa
+0.1554	2	0	clade	33213	            Bilateria
+0.1554	2	1	clade	33317	              Protostomia
+0.0777	1	0	clade	1206794	                Ecdysozoa
+0.0777	1	1	phylum	6231	                  Nematoda
+0.3885	5	0	kingdom	33090	      Viridiplantae
+0.3885	5	0	phylum	35493	        Streptophyta
+0.3885	5	0	subphylum	131221	          Streptophytina
+0.3885	5	2	clade	3193	            Embryophyta
+0.2331	3	0	clade	58023	              Tracheophyta
+0.1554	2	0	class	1521260	                Lycopodiopsida
+0.1554	2	0	order	3244	                  Selaginellales
+0.1554	2	0	family	3245	                    Selaginellaceae
+0.1554	2	0	genus	3246	                      Selaginella
+0.1554	2	2	species	88036	                        Selaginella moellendorffii
+0.0777	1	0	clade	78536	                Euphyllophyta
+0.0777	1	0	clade	58024	                  Spermatophyta
+0.0777	1	0	class	3398	                    Magnoliopsida
+0.0777	1	0	clade	1437183	                      Mesangiospermae
+0.0777	1	0	clade	71240	                        eudicotyledons
+0.0777	1	0	clade	91827	                          Gunneridae
+0.0777	1	0	clade	1437201	                            Pentapetalae
+0.0777	1	1	clade	71275	                              rosids
+0.6993	9	0	superkingdom	2	    Bacteria
+0.6216	8	0	clade	1783270	      FCB group
+0.6216	8	0	clade	68336	        Bacteroidota/Chlorobiota group
+0.6216	8	0	phylum	976	          Bacteroidota
+0.6216	8	0	class	200643	            Bacteroidia
+0.6216	8	0	order	171549	              Bacteroidales
+0.6216	8	0	family	815	                Bacteroidaceae
+0.6216	8	0	genus	816	                  Bacteroides
+0.6216	8	8	species	817	                    Bacteroides fragilis
+0.0777	1	0	no rank	49928	      unclassified Bacteria
+0.0777	1	1	species	1869227	        bacterium
