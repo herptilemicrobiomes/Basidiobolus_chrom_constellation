@@ -7,7 +7,7 @@ import os
 import csv
 import gzip
 
-def process_paf(names, inputdir, outfile, extension, min_aligned, ignore_self, ignore_duplicates):
+def process_paf(names, inputdir, outfile, extension, min_aligned, ignore_self):
     """
     Process the PAF files in the input directory and build the chromosome graph data.
 
@@ -44,9 +44,7 @@ def process_paf(names, inputdir, outfile, extension, min_aligned, ignore_self, i
             file_a_noextension = sample_file_a.replace('.fasta.gz','')
             for sample_id_b, sample_file_b in names.items():
                 file_b_noextension = sample_file_b.replace('.fasta.gz','')
-                if ignore_self and sample_id_a == sample_id_b:
-                        continue
-            
+                print(f"Processing {sample_id_a} vs {sample_id_b}")
                 paf_file = os.path.join(inputdir,f"{file_a_noextension}_vs_{file_b_noextension}.{extension}")
                 if not os.path.exists(paf_file):
                     print(f"Error: PAF file {paf_file} does not exist.")
@@ -65,30 +63,43 @@ def process_paf(names, inputdir, outfile, extension, min_aligned, ignore_self, i
                         tstart = int(pafline[7])
                         tend = int(pafline[8])
 
-                        q = f'{sample_id_a}_{q}'
-                        t = f'{sample_id_b}_{t}'
-                        
+                        q = f'{sample_id_a}__{q}'
+                        t = f'{sample_id_b}__{t}'
+
+                        if q == t:
+                            # ignore self connections to same contig
+                            continue
+                        # always create storage for the contig
+                        # but we will not store a connection if
+                        # it is too short
+                        # and will avoid same-org self connections
+                        # if that flag is set
+                        if q not in seen:
+                            seen[q] = set()
                         frac_aligned = (qend - qstart ) / qlen
                         if frac_aligned < min_aligned:
                             continue
-                        if q not in seen:
-                            seen[q] = set()                        
+                        if ignore_self and sample_id_a == sample_id_b:
+                            # ignore self connections
+                            continue
                         seen[q].add(t)
                         i += 1
         for q in sorted(seen):
-            matches = "\t".join(seen[q])
-            out.write(f'{q}\tconnected_to\t{matches}\n')
+            if len(seen[q]) == 0:
+                out.write(f'{q}\n')
+            else:
+                matches = "\t".join(seen[q])
+                out.write(f'{q}\tconnected_to\t{matches}\n')
 
 
 def main():
     parser = argparse.ArgumentParser(description="Build chromosome graph data for Cytoscape from the minimap or maashmap output paf")
-    parser.add_argument("--input", default="results/similarity_minimap", help="Input PAF folder")
+    parser.add_argument("--input", '-i', default="results/similarity_minimap", help="Input PAF folder")
     parser.add_argument("--samples", "-s", default="samples.csv",help="Input Samples file")
-    parser.add_argument("--output", "-o", default="results/chrom_network/chromosome.connections.sif", help="Output file name")
+    parser.add_argument("--output", "-o", default="results/chrom_network/chrom.connections.sif", help="Output file name")
     parser.add_argument("--extension", default="paf.gz", help="PAF file name extension")
     parser.add_argument("--min-aligned", type=float, default=0.50, help="Minimum aligned fraction")
-    parser.add_argument("--ignore-self", action="store_true", default=True, help="Ignore self connections")
-    parser.add_argument("--ignore-duplicates", action="store_true", default=True, help="Ignore duplicate connections")
+    parser.add_argument("--ignore-self", action="store_true", default=False, help="Ignore self connections")    
 #    parser.add_argument("--minimap", action="store_true", default-True, help="Use minimap2 output format")
 #    parser.add_argument("--maashmap", action="store_true", default=False, help="Use maashmap output format")
     args = parser.parse_args()
@@ -123,7 +134,7 @@ def main():
             sample_id = row[0]
             sample_file = row[1]
             samplenames[sample_id] = sample_file
-    process_paf(samplenames, args.input, args.output, args.extension, args.min_aligned, args.ignore_self, args.ignore_duplicates)
+    process_paf(samplenames, args.input, args.output, args.extension, args.min_aligned, args.ignore_self)
 
 
 main()
