@@ -26,14 +26,14 @@ INPUT=input
 OUTFOLDER=results/classify_mmseqs
 mkdir -p $OUTFOLDER
 
-cat $SAMPFILE | sed -n ${N}p | while read STRAIN
+cat $SAMPFILE | sed -n ${N}p | while read STRAIN FILENAME
 do
-  PREFIX=$(basename $STRAIN .fasta.gz)
-  mmseqs touchdb $DB
-  GENOME=$INPUT/$STRAIN
-  OUT=$OUTFOLDER/${PREFIX}/${DBNAME}
-  mkdir -p $OUTFOLDER/$PREFIX
-  if [ ! -s ${OUT}_tophit_aln ]; then
-      mmseqs easy-taxonomy $GENOME $DB $OUT $SCRATCH --threads $CPU --lca-ranks kingdom,phylum,family  --tax-lineage 1 --db-load-mode 2
-  fi
+	PREFIX=$(basename $FILENAME .fasta.gz)
+  	mmseqs touchdb $DB
+  	GENOME=$INPUT/$FILENAME
+  	OUT=$OUTFOLDER/${PREFIX}/${DBNAME}
+  	mkdir -p $OUTFOLDER/$PREFIX
+  	if [ ! -s ${OUT}_tophit_aln ]; then
+      		mmseqs easy-taxonomy $GENOME $DB $OUT $SCRATCH --threads $CPU --lca-ranks kingdom,phylum,family  --tax-lineage 1 --db-load-mode 2
+  	fi
 done
