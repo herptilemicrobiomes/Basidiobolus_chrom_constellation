@@ -1,0 +1,85 @@
+##[["FCS genome report", 2, 1], {"git-rev": "v0.4.0", "run-date": "Tue May  6 22:56:12 2025", "db": {"build-date": "2023-01-24", "seqs": 3025824, "Gbp": 709.264}, "run-info": {"agg-cvg": 0.57827, "asserted-div": "fung:fungi", "inferred-primary-divs": ["fung:fungi"], "corrected-primary-divs": ["fung:fungi"]}}]
+#seq_id	start_pos	end_pos	seq_len	action	div	agg_cont_cov	top_tax_name
+tig00001195_polypolish	1	39548	39548	EXCLUDE	fung:ascomycetes	96	Sarocladium strictum
+tig00001222_polypolish	1	37651	37651	EXCLUDE	fung:ascomycetes	78	Sarocladium strictum
+tig00001280_polypolish	1	31108	31108	EXCLUDE	fung:ascomycetes	84	Sarocladium strictum
+tig00001281_polypolish	1	10455	10455	EXCLUDE	fung:ascomycetes	38	Dactylonectria macrodidyma
+tig00001325_polypolish	1	9488	9488	EXCLUDE	fung:ascomycetes	77	Sarocladiaceae sp. R1802
+tig00001331_polypolish	1	12812	12812	EXCLUDE	fung:ascomycetes	81	Sarocladium strictum
+tig00001378_polypolish	1	17870	17870	EXCLUDE	fung:ascomycetes	87	Hypoxylon crocopeplum
+tig00001379_polypolish	1	14176	14176	EXCLUDE	fung:ascomycetes	69	Sarocladium strictum
+tig00001381_polypolish	1	13643	13643	EXCLUDE	fung:ascomycetes	72	Sarocladium strictum
+tig00001383_polypolish	1	12524	12524	EXCLUDE	fung:ascomycetes	66	Sarocladium strictum
+tig00001387_polypolish	1	16466	16466	EXCLUDE	fung:ascomycetes	58	Sarocladium strictum
+tig00001393_polypolish	1	9343	9343	EXCLUDE	fung:ascomycetes	76	Sarocladium strictum
+tig00001394_polypolish	1	13444	13444	EXCLUDE	fung:ascomycetes	76	Sarocladiaceae sp. R1802
+tig00001395_polypolish	1	9257	9257	EXCLUDE	fung:ascomycetes	94	Sarocladium strictum
+tig00001398_polypolish	1	6748	6748	EXCLUDE	fung:ascomycetes	51	Sarocladium strictum
+tig00001400_polypolish	1	16850	16850	EXCLUDE	fung:ascomycetes	54	Sarocladium strictum
+tig00001401_polypolish	1	18068	18068	EXCLUDE	fung:ascomycetes	68	Sarocladium strictum
+tig00001406_polypolish	1	14439	14439	EXCLUDE	fung:ascomycetes	94	Fusarium virguliforme
+tig00001408_polypolish	1	13417	13417	EXCLUDE	fung:ascomycetes	89	Sarocladium strictum
+tig00001410_polypolish	1	14140	14140	EXCLUDE	fung:ascomycetes	30	Sarocladium strictum
+tig00001411_polypolish	1	18832	18832	EXCLUDE	fung:ascomycetes	66	Sarocladium strictum
+tig00001413_polypolish	1	8406	8406	EXCLUDE	fung:ascomycetes	93	Sarocladium strictum
+tig00001414_polypolish	1	13990	13990	EXCLUDE	fung:ascomycetes	55	Sarocladium strictum
+tig00001415_polypolish	1	6359	6359	EXCLUDE	fung:ascomycetes	41	Sarocladium strictum
+tig00001416_polypolish	1	5116	5116	EXCLUDE	fung:ascomycetes	100	Sarocladium strictum
+tig00001417_polypolish	1	10308	10308	EXCLUDE	fung:ascomycetes	71	Sarocladium strictum
+tig00001419_polypolish	1	9053	9053	EXCLUDE	fung:ascomycetes	29	Acremonium sp. CBMAI 1973
+tig00001730_polypolish	1	4973	4973	EXCLUDE	fung:ascomycetes	83	Sarocladium strictum
+tig00001742_polypolish	1	10237	10237	EXCLUDE	fung:ascomycetes	92	Sarocladium strictum
+tig00001743_polypolish	1	17482	17482	EXCLUDE	fung:ascomycetes	55	Dactylonectria macrodidyma
+tig00001752_polypolish	1	7353	7353	EXCLUDE	fung:ascomycetes	76	Sarocladium strictum
+tig00001770_polypolish	1	4638	4638	EXCLUDE	fung:ascomycetes	100	Sarocladium strictum
+tig00001774_polypolish	1	6442	6442	EXCLUDE	fung:ascomycetes	68	Sarocladium strictum
+tig00001780_polypolish	1	3516	3516	EXCLUDE	fung:ascomycetes	53	Sarocladium strictum
+tig00001785_polypolish	1	4826	4826	EXCLUDE	fung:ascomycetes	90	Sarocladium strictum
+tig00001791_polypolish	1	5793	5793	EXCLUDE	fung:ascomycetes	74	Emericellopsis atlantica
+tig00001797_polypolish	1	9789	9789	EXCLUDE	fung:ascomycetes	97	Sarocladium strictum
+tig00001801_polypolish	1	8255	8255	EXCLUDE	fung:ascomycetes	87	Sarocladium strictum
+tig00001805_polypolish	1	14636	14636	EXCLUDE	fung:ascomycetes	84	Sarocladium strictum
+tig00001806_polypolish	1	5329	5329	EXCLUDE	fung:ascomycetes	81	Sarocladium strictum
+tig00001809_polypolish	1	7418	7418	EXCLUDE	fung:ascomycetes	93	Sarocladium strictum
+tig00001832_polypolish	1	13742	13742	EXCLUDE	fung:ascomycetes	41	Sarocladium oryzae
+tig00001857_polypolish	1	14361	14361	EXCLUDE	fung:ascomycetes	70	Acremonium sp. CBMAI 1973
+tig00001859_polypolish	1	7746	7746	EXCLUDE	fung:ascomycetes	50	Plectosphaerella cucumerina
+tig00001861_polypolish	1	16696	16696	EXCLUDE	fung:ascomycetes	85	Sarocladium strictum
+tig00001879_polypolish	1	7344	7344	EXCLUDE	fung:ascomycetes	60	Sarocladium strictum
+tig00001880_polypolish	1	15395	15395	EXCLUDE	fung:ascomycetes	81	Sarocladium strictum
+tig00001881_polypolish	1	11233	11233	EXCLUDE	fung:ascomycetes	74	Sarocladium strictum
+tig00001883_polypolish	1	7761	7761	EXCLUDE	fung:ascomycetes	62	Sarocladium strictum
+tig00001887_polypolish	1	8596	8596	EXCLUDE	fung:ascomycetes	76	Sarocladium strictum
+tig00001888_polypolish	1	7672	7672	EXCLUDE	fung:ascomycetes	100	Sarocladium strictum
+tig00001893_polypolish	1	13151	13151	EXCLUDE	fung:ascomycetes	72	Sarocladium strictum
+tig00001900_polypolish	1	13003	13003	EXCLUDE	fung:ascomycetes	97	Sarocladium strictum
+tig00001904_polypolish	1	18701	18701	EXCLUDE	fung:ascomycetes	59	Sarocladium strictum
+tig00001915_polypolish	1	2953	2953	EXCLUDE	fung:ascomycetes	73	Sarocladium strictum
+tig00001921_polypolish	1	13524	13524	EXCLUDE	fung:ascomycetes	67	Sarocladium strictum
+tig00001922_polypolish	1	16235	16235	EXCLUDE	fung:ascomycetes	76	Sarocladium strictum
+tig00001929_polypolish	1	4965	4965	EXCLUDE	fung:ascomycetes	93	Sarocladium strictum
+tig00001933_polypolish	1	5821	5821	EXCLUDE	fung:ascomycetes	96	Sarocladium strictum
+tig00001972_polypolish	1	11922	11922	EXCLUDE	fung:ascomycetes	39	Sarocladium strictum
+tig00001973_polypolish	1	3770	3770	EXCLUDE	fung:ascomycetes	34	Sarocladium strictum
+tig00001974_polypolish	1	5154	5154	EXCLUDE	fung:ascomycetes	76	Sarocladium strictum
+tig00001975_polypolish	1	7762	7762	EXCLUDE	fung:ascomycetes	41	Paraphoma chrysanthemicola
+tig00001978_polypolish	1	7239	7239	EXCLUDE	fung:ascomycetes	72	Sarocladium strictum
+tig00001993_polypolish	1	19898	19898	EXCLUDE	fung:ascomycetes	74	Sarocladium strictum
+tig00001996_polypolish	1	5482	5482	EXCLUDE	fung:ascomycetes	58	Sarocladium strictum
+tig00002003_polypolish	1	1704	1704	EXCLUDE	fung:ascomycetes	100	Acremonium sp. CBMAI 1973
+tig00002007_polypolish	1	3429	3429	EXCLUDE	fung:ascomycetes	89	Sarocladium strictum
+tig00002008_polypolish	1	7397	7397	EXCLUDE	fung:ascomycetes	47	Sarocladium strictum
+tig00002020_polypolish	1	25062	25062	EXCLUDE	fung:ascomycetes	51	Sarocladium strictum
+tig00002023_polypolish	1	1187	1187	EXCLUDE	fung:ascomycetes	88	Sarocladium strictum
+tig00002029_polypolish	1	8306	8306	EXCLUDE	fung:ascomycetes	43	Sarocladium strictum
+tig00002040_polypolish	1	16582	16582	EXCLUDE	fung:ascomycetes	27	Sarocladium strictum
+tig00002052_polypolish	1	11314	11314	EXCLUDE	fung:ascomycetes	65	Sarocladium strictum
+tig00002061_polypolish	1	5082	5082	EXCLUDE	fung:ascomycetes	29	Sarocladium strictum
+tig00002067_polypolish	1	13395	13395	EXCLUDE	fung:ascomycetes	71	Stachybotrys elegans
+tig00002068_polypolish	1	6718	6718	EXCLUDE	fung:ascomycetes	80	Sarocladium strictum
+tig00002076_polypolish	1	7522	7522	EXCLUDE	fung:ascomycetes	77	Sarocladium strictum
+tig00002775_polypolish	1	12814	12814	EXCLUDE	fung:ascomycetes	81	Sarocladium strictum
+tig00002776_polypolish	1	10183	10183	EXCLUDE	fung:ascomycetes	80	Sarocladium strictum
+tig00002777_polypolish	1	15505	15505	EXCLUDE	fung:ascomycetes	82	Sarocladium strictum
+tig00002778_polypolish	1	17962	17962	EXCLUDE	fung:ascomycetes	85	Sarocladium brachiariae
+tig00002779_polypolish	1	28105	28105	EXCLUDE	fung:ascomycetes	84	Sarocladium brachiariae
