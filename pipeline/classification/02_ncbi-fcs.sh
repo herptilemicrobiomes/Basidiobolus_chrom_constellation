@@ -17,6 +17,8 @@ do
 		echo $a
 	fi
 done > $SCRATCH/tempfile
+echo "to run"
+cat $SCRATCH/tempfile
 parallel -j 8 AAFTF fcs_gx_purge  --db /dev/shm/gxdb/all  -i {} --cpus 8 -o $OUTDIR/{/.}.purge.fasta -t ${TAXID} -w $OUTDIR/{/.}.report ::: $(cat $SCRATCH/tempfile)
 
 rm -rf /dev/shm/gxdb

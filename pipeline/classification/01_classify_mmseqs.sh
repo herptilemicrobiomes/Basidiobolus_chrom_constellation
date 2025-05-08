@@ -33,7 +33,7 @@ do
   	GENOME=$INPUT/$FILENAME
   	OUT=$OUTFOLDER/${PREFIX}/${DBNAME}
   	mkdir -p $OUTFOLDER/$PREFIX
-  	if [ ! -s ${OUT}_tophit_aln ]; then
+  	if [ ! -s ${OUT}_lca.tsv ]; then
       		mmseqs easy-taxonomy $GENOME $DB $OUT $SCRATCH --threads $CPU --lca-ranks kingdom,phylum,family  --tax-lineage 1 --db-load-mode 2
   	fi
 done
