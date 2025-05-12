@@ -1,0 +1,7 @@
+##[["FCS genome report", 2, 1], {"git-rev": "v0.4.0", "run-date": "Mon May 12 11:34:09 2025", "db": {"build-date": "2023-01-24", "seqs": 3025824, "Gbp": 709.264}, "run-info": {"agg-cvg": 0.274534, "asserted-div": "fung:fungi", "inferred-primary-divs": ["fung:fungi"], "corrected-primary-divs": ["fung:fungi"]}}]
+#seq_id	start_pos	end_pos	seq_len	action	div	agg_cont_cov	top_tax_name
+tig00002028	1	13164	13164	EXCLUDE	fung:ascomycetes	98	Sarocladium strictum
+tig00002221	1	8139	8139	EXCLUDE	fung:ascomycetes	95	Sarocladium strictum
+tig00002516	1	5187	5187	EXCLUDE	fung:ascomycetes	83	Sarocladium strictum
+tig00003214	1	2855	2855	EXCLUDE	fung:ascomycetes	97	Tolypocladium ovalisporum
+tig00003508	1	1928	1928	EXCLUDE	fung:ascomycetes	66	Fusarium aywerte

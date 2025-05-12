@@ -1,0 +1,3 @@
+##[["FCS genome report", 2, 1], {"git-rev": "v0.4.0", "run-date": "Mon May 12 11:34:09 2025", "db": {"build-date": "2023-01-24", "seqs": 3025824, "Gbp": 709.264}, "run-info": {"agg-cvg": 0.236837, "asserted-div": "fung:fungi", "inferred-primary-divs": ["fung:fungi"], "corrected-primary-divs": ["fung:fungi"]}}]
+#seq_id	start_pos	end_pos	seq_len	action	div	agg_cont_cov	top_tax_name
+tig00003040	1	1533	1533	EXCLUDE	plnt:mosses	74	Anthoceros angustus
