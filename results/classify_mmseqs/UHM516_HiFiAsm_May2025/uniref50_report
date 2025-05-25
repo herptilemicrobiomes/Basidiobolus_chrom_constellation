@@ -1,0 +1,132 @@
+1.4151	27	27	no rank	0	unclassified
+98.5849	1881	44	no rank	1	root
+96.2788	1837	20	no rank	131567	  cellular organisms
+95.1258	1815	169	superkingdom	2759	    Eukaryota
+85.9539	1640	4	clade	33154	      Opisthokonta
+85.6918	1635	251	kingdom	4751	        Fungi
+67.6101	1290	144	no rank	112252	          Fungi incertae sedis
+56.9182	1086	37	phylum	1913638	            Zoopagomycota
+54.9790	1049	65	subphylum	1264859	              Entomophthoromycotina
+50.2096	958	0	class	1399768	                Basidiobolomycetes
+50.2096	958	0	order	1264872	                  Basidiobolales
+50.2096	958	0	family	4858	                    Basidiobolaceae
+50.2096	958	1	genus	4859	                      Basidiobolus
+50.1572	957	0	species	423460	                        Basidiobolus meristosporus
+50.1572	957	957	strain	1314790	                          Basidiobolus meristosporus CBS 931.73
+1.3627	26	0	class	1399770	                Entomophthoromycetes
+1.3627	26	0	order	4857	                  Entomophthorales
+1.3627	26	0	family	34486	                    Ancylistaceae
+1.3627	26	0	genus	34487	                      Conidiobolus
+1.3627	26	0	species	34488	                        Conidiobolus coronatus
+1.3627	26	26	strain	796925	                          Conidiobolus coronatus NRRL 28638
+2.9350	56	11	phylum	1913637	            Mucoromycota
+1.7820	34	0	subphylum	451507	              Mucoromycotina
+1.5723	30	0	class	2212702	                Endogonomycetes
+1.5723	30	0	order	4869	                  Endogonales
+1.5723	30	0	no rank	2052803	                    Endogonales incertae sedis
+1.5723	30	0	genus	2026842	                      Bifiguratus
+1.5723	30	30	species	1938954	                        Bifiguratus adelaidae
+0.2096	4	0	class	2212703	                Mucoromycetes
+0.2096	4	0	order	4827	                  Mucorales
+0.2096	4	0	suborder	1344963	                    Mucorineae
+0.2096	4	0	family	1344955	                      Rhizopodaceae
+0.2096	4	0	genus	4842	                        Rhizopus
+0.2096	4	4	species	4846	                          Rhizopus stolonifer
+0.4717	9	0	subphylum	1137986	              Mortierellomycotina
+0.4717	9	0	class	2212732	                Mortierellomycetes
+0.4717	9	0	order	214503	                  Mortierellales
+0.4717	9	3	family	4854	                    Mortierellaceae
+0.2621	5	0	genus	2779937	                      Podila
+0.2621	5	2	species	78898	                        Podila verticillata
+0.1572	3	3	strain	1069443	                          Podila verticillata NRRL 6337
+0.0524	1	0	genus	4855	                      Mortierella
+0.0524	1	1	species	64518	                        Mortierella alpina
+0.1048	2	0	subphylum	214504	              Glomeromycotina
+0.1048	2	0	class	214506	                Glomeromycetes
+0.1048	2	0	order	214509	                  Diversisporales
+0.1048	2	0	family	308925	                    Diversisporaceae
+0.1048	2	0	genus	308926	                      Diversispora
+0.1048	2	2	species	1348612	                        Diversispora epigaea
+0.2096	4	0	phylum	4761	            Chytridiomycota
+0.2096	4	0	no rank	2683659	              Chytridiomycota incertae sedis
+0.2096	4	0	class	451435	                Chytridiomycetes
+0.1048	2	0	order	34478	                  Spizellomycetales
+0.1048	2	0	family	34479	                    Spizellomycetaceae
+0.1048	2	0	genus	4815	                      Spizellomyces
+0.1048	2	0	no rank	2646140	                        unclassified Spizellomyces
+0.1048	2	2	species	117820	                          Spizellomyces sp. 'palustris'
+0.1048	2	0	order	642598	                  Lobulomycetales
+0.1048	2	0	family	642599	                    Lobulomycetaceae
+0.1048	2	0	genus	642605	                      Clydaea
+0.1048	2	2	species	447962	                        Clydaea vesicula
+4.9266	94	5	subkingdom	451864	          Dikarya
+4.4549	85	0	phylum	4890	            Ascomycota
+4.4549	85	0	clade	716545	              saccharomyceta
+4.4549	85	10	subphylum	147538	                Pezizomycotina
+3.9308	75	25	clade	716546	                  leotiomyceta
+2.2537	43	0	clade	715989	                    sordariomyceta
+2.2537	43	20	class	147550	                      Sordariomycetes
+1.2055	23	10	subclass	222543	                        Hypocreomycetidae
+0.6813	13	9	order	5125	                          Hypocreales
+0.2096	4	0	family	2502719	                            Sarocladiaceae
+0.2096	4	0	genus	284134	                              Sarocladium
+0.2096	4	4	species	5046	                                Sarocladium strictum
+0.3145	6	0	clade	715962	                    dothideomyceta
+0.3145	6	0	class	147541	                      Dothideomycetes
+0.3145	6	0	subclass	451868	                        Pleosporomycetidae
+0.3145	6	0	no rank	715341	                          Pleosporomycetidae incertae sedis
+0.3145	6	0	family	603431	                            Gloniaceae
+0.3145	6	0	genus	531859	                              Glonium
+0.3145	6	6	species	574774	                                Glonium stellatum
+0.0524	1	0	class	147547	                    Lecanoromycetes
+0.0524	1	0	clade	1520881	                      OSLEUM clade
+0.0524	1	0	subclass	388435	                        Lecanoromycetidae
+0.0524	1	0	order	388450	                          Peltigerales
+0.0524	1	0	suborder	157824	                            Peltigerineae
+0.0524	1	0	family	48860	                              Peltigeraceae
+0.0524	1	0	genus	48861	                                Peltigera
+0.0524	1	1	species	161986	                                  Peltigera elisabethae
+0.2096	4	2	phylum	5204	            Basidiomycota
+0.1048	2	0	subphylum	5302	              Agaricomycotina
+0.1048	2	0	class	155616	                Tremellomycetes
+0.1048	2	0	order	1851469	                  Trichosporonales
+0.1048	2	1	family	1759442	                    Trichosporonaceae
+0.0524	1	0	genus	5552	                      Trichosporon
+0.0524	1	0	species	82508	                        Trichosporon asahii
+0.0524	1	0	varietas	189963	                          Trichosporon asahii var. asahii
+0.0524	1	1	strain	1220162	                            Trichosporon asahii var. asahii CBS 8904
+0.0524	1	0	kingdom	33208	        Metazoa
+0.0524	1	0	clade	6072	          Eumetazoa
+0.0524	1	0	clade	33213	            Bilateria
+0.0524	1	0	clade	33317	              Protostomia
+0.0524	1	0	clade	2697495	                Spiralia
+0.0524	1	0	clade	2697496	                  Gnathifera
+0.0524	1	0	phylum	10190	                    Rotifera
+0.0524	1	0	class	2816136	                      Eurotatoria
+0.0524	1	1	subclass	44578	                        Bdelloidea
+0.3145	6	0	kingdom	33090	      Viridiplantae
+0.3145	6	0	phylum	35493	        Streptophyta
+0.3145	6	0	subphylum	131221	          Streptophytina
+0.3145	6	0	clade	3193	            Embryophyta
+0.3145	6	0	clade	3208	              Bryophyta
+0.3145	6	0	clade	404260	                Bryophytina
+0.3145	6	4	class	3214	                  Bryopsida
+0.0524	1	0	subclass	114656	                    Funariidae
+0.0524	1	0	order	3215	                      Funariales
+0.0524	1	0	family	3216	                        Funariaceae
+0.0524	1	0	genus	37414	                          Physcomitrium
+0.0524	1	1	species	3218	                            Physcomitrium patens
+0.0524	1	0	subclass	114657	                    Dicranidae
+0.0524	1	0	order	1929018	                      Pseudoditrichales
+0.0524	1	0	family	3223	                        Ditrichaceae
+0.0524	1	0	genus	3224	                          Ceratodon
+0.0524	1	1	species	3225	                            Ceratodon purpureus
+0.1048	2	0	superkingdom	2	    Bacteria
+0.1048	2	0	clade	1783270	      FCB group
+0.1048	2	0	clade	68336	        Bacteroidota/Chlorobiota group
+0.1048	2	0	phylum	976	          Bacteroidota
+0.1048	2	0	class	200643	            Bacteroidia
+0.1048	2	0	order	171549	              Bacteroidales
+0.1048	2	0	family	815	                Bacteroidaceae
+0.1048	2	0	genus	816	                  Bacteroides
+0.1048	2	2	species	817	                    Bacteroides fragilis
