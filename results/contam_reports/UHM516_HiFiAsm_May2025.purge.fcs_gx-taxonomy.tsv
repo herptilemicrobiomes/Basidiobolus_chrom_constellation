@@ -1,0 +1,82 @@
+##[["FCS genome report", 2, 1], {"git-rev": "v0.4.0", "run-date": "Sat May 24 08:08:25 2025", "db": {"build-date": "2023-01-24", "seqs": 3025824, "Gbp": 709.264}, "run-info": {"agg-cvg": 0.438215, "asserted-div": "fung:fungi", "inferred-primary-divs": ["fung:fungi"], "corrected-primary-divs": ["fung:fungi"]}}]
+#seq_id	start_pos	end_pos	seq_len	action	div	agg_cont_cov	top_tax_name
+ptg000085l	1	28253	275443	REVIEW	fung:ascomycetes	80	Sarocladium strictum
+ptg001732l	1	27071	27071	EXCLUDE	fung:ascomycetes	46	Dactylonectria macrodidyma
+ptg001739l	1	24969	24969	EXCLUDE	fung:ascomycetes	69	Sarocladium strictum
+ptg001740l	1	34754	34754	EXCLUDE	fung:ascomycetes	84	Sarocladium strictum
+ptg001741l	1	31375	31375	EXCLUDE	fung:ascomycetes	73	Sarocladium strictum
+ptg001742l	1	13512	13512	EXCLUDE	fung:ascomycetes	73	Sarocladium strictum
+ptg001743l	1	22024	22024	EXCLUDE	fung:ascomycetes	63	Sarocladium strictum
+ptg001744l	1	18642	18642	EXCLUDE	fung:ascomycetes	63	Acremonium sp. CBMAI 1973
+ptg001745l	1	18999	18999	EXCLUDE	fung:ascomycetes	74	Sarocladium strictum
+ptg001746l	1	30931	30931	EXCLUDE	fung:ascomycetes	70	Sarocladium strictum
+ptg001748l	1	11771	11771	EXCLUDE	fung:ascomycetes	78	Dactylonectria estremocensis
+ptg001749l	1	14426	14426	EXCLUDE	fung:ascomycetes	68	Sarocladium strictum
+ptg001753l	1	37417	37417	EXCLUDE	fung:ascomycetes	74	Sarocladium strictum
+ptg001755l	1	14971	14971	EXCLUDE	fung:ascomycetes	57	Sarocladium strictum
+ptg001756l	1	14501	14501	EXCLUDE	fung:ascomycetes	88	Sarocladium strictum
+ptg001757l	1	29592	29592	EXCLUDE	fung:ascomycetes	61	Sarocladium strictum
+ptg001758l	1	10746	10746	EXCLUDE	fung:ascomycetes	74	Stachybotrys chartarum
+ptg001759l	1	13852	13852	EXCLUDE	fung:ascomycetes	48	Sarocladium strictum
+ptg001760l	1	14491	14491	EXCLUDE	fung:ascomycetes	56	Sarocladium strictum
+ptg001761l	1	21575	21575	EXCLUDE	fung:ascomycetes	66	Sarocladium strictum
+ptg001764l	1	24773	24773	EXCLUDE	fung:ascomycetes	45	Sarocladium strictum
+ptg001765l	1	25380	25380	EXCLUDE	fung:ascomycetes	65	Acremonium sp. CBMAI 1973
+ptg001770l	1	11986	11986	EXCLUDE	fung:ascomycetes	93	Sarocladium strictum
+ptg001771l	1	34887	34887	EXCLUDE	fung:ascomycetes	64	Fusarium paranaense
+ptg001773l	1	19812	19812	EXCLUDE	fung:ascomycetes	50	Acremonium sp. CBMAI 1973
+ptg001774l	1	21707	21707	EXCLUDE	fung:ascomycetes	72	Sarocladium strictum
+ptg001776l	1	28367	28367	EXCLUDE	fung:ascomycetes	80	Sarocladium strictum
+ptg001777l	1	42784	42784	EXCLUDE	fung:ascomycetes	97	Sarocladium strictum
+ptg001779l	1	40662	40662	EXCLUDE	fung:ascomycetes	60	Sarocladium strictum
+ptg001780l	1	8569	8569	EXCLUDE	fung:ascomycetes	90	Sarocladium strictum
+ptg001783l	1	57032	57032	EXCLUDE	fung:ascomycetes	75	Sarocladium strictum
+ptg001785l	1	8770	8770	EXCLUDE	fung:ascomycetes	76	Sarocladium strictum
+ptg001786l	1	15431	15431	EXCLUDE	fung:ascomycetes	76	Sarocladium strictum
+ptg001788l	1	28368	28368	EXCLUDE	fung:ascomycetes	85	Sarocladium strictum
+ptg001789l	1	68063	68063	EXCLUDE	fung:ascomycetes	72	Sarocladium strictum
+ptg001790l	1	23906	23906	EXCLUDE	fung:ascomycetes	48	Sarocladium brachiariae
+ptg001791l	1	77202	77202	EXCLUDE	fung:ascomycetes	58	Sarocladium strictum
+ptg001792l	1	13648	13648	EXCLUDE	fung:ascomycetes	67	Sarocladium strictum
+ptg001793l	1	11092	11092	EXCLUDE	fung:ascomycetes	78	Sarocladium strictum
+ptg001794l	1	8392	8392	EXCLUDE	fung:ascomycetes	34	Sarocladium strictum
+ptg001795l	1	7933	7933	EXCLUDE	fung:ascomycetes	84	Sarocladium strictum
+ptg001798l	1	15142	15142	EXCLUDE	fung:ascomycetes	63	Sarocladium strictum
+ptg001803l	1	10472	10472	EXCLUDE	fung:ascomycetes	68	Sarocladium strictum
+ptg001804l	1	23714	23714	EXCLUDE	fung:ascomycetes	38	Acremonium sp. CBMAI 1973
+ptg001806l	1	20636	20636	EXCLUDE	fung:ascomycetes	79	Sarocladium strictum
+ptg001808l	1	12564	12564	EXCLUDE	fung:ascomycetes	78	Sarocladium strictum
+ptg001809l	1	36548	36548	EXCLUDE	fung:ascomycetes	54	Sarocladium strictum
+ptg001810l	1	41194	41194	EXCLUDE	fung:ascomycetes	92	Sarocladium strictum
+ptg001814l	1	52094	52094	EXCLUDE	fung:ascomycetes	80	Sarocladium strictum
+ptg001819l	1	34880	34880	EXCLUDE	fung:ascomycetes	72	Sarocladium strictum
+ptg001821l	1	25042	25042	EXCLUDE	fung:ascomycetes	83	Sarocladium strictum
+ptg001822l	1	17192	17192	EXCLUDE	fung:ascomycetes	75	Sarocladium strictum
+ptg001823l	1	16073	16073	EXCLUDE	fung:ascomycetes	43	Acremonium sp. CBMAI 1973
+ptg001824l	1	53404	53404	EXCLUDE	fung:ascomycetes	77	Sarocladium strictum
+ptg001825l	1	17306	17306	EXCLUDE	fung:ascomycetes	39	Tolypocladium ovalisporum
+ptg001828l	1	21103	21103	EXCLUDE	fung:ascomycetes	84	Sarocladium strictum
+ptg001832l	1	10016	10016	EXCLUDE	fung:ascomycetes	55	Sarocladium strictum
+ptg001835l	1	29349	29349	EXCLUDE	fung:ascomycetes	52	Sarocladium brachiariae
+ptg001836l	1	15524	15524	EXCLUDE	fung:ascomycetes	98	Sarocladium strictum
+ptg001837l	1	15416	15416	EXCLUDE	fung:ascomycetes	75	Sarocladium strictum
+ptg001840l	1	44390	44390	EXCLUDE	fung:ascomycetes	67	Sarocladium strictum
+ptg001842l	1	8095	8095	EXCLUDE	fung:ascomycetes	83	Sarocladium strictum
+ptg001843l	1	14795	14795	EXCLUDE	fung:ascomycetes	84	Sarocladium strictum
+ptg001844l	1	14351	14351	EXCLUDE	fung:ascomycetes	75	Sarocladium strictum
+ptg001846l	1	17042	17042	EXCLUDE	fung:ascomycetes	67	Sarocladium strictum
+ptg001847l	1	15360	15360	EXCLUDE	fung:ascomycetes	90	Sarocladium strictum
+ptg001848l	1	18062	18062	EXCLUDE	fung:ascomycetes	65	Acremonium sp. CBMAI 1973
+ptg001852l	1	31824	31824	EXCLUDE	fung:ascomycetes	67	Sarocladium strictum
+ptg001853l	1	30767	30767	EXCLUDE	fung:ascomycetes	64	Sarocladium strictum
+ptg001854l	1	13991	13991	EXCLUDE	fung:ascomycetes	82	Sarocladium strictum
+ptg001857l	1	18400	18400	EXCLUDE	fung:ascomycetes	77	Sarocladium strictum
+ptg001860l	1	15216	15216	EXCLUDE	fung:ascomycetes	63	Sarocladium strictum
+ptg001861l	1	48307	48307	EXCLUDE	fung:ascomycetes	76	Sarocladium strictum
+ptg001862l	1	12243	12243	EXCLUDE	fung:ascomycetes	89	Sarocladium strictum
+ptg001865l	1	15721	15721	EXCLUDE	fung:ascomycetes	63	Stachybotrys chartarum
+ptg001866l	1	15961	15961	EXCLUDE	fung:ascomycetes	69	Sarocladium strictum
+ptg001868l	1	18401	18401	EXCLUDE	fung:ascomycetes	69	Sarocladium strictum
+ptg001870l	1	25440	25440	EXCLUDE	fung:ascomycetes	60	Sarocladium strictum
+ptg001871l	1	12360	12360	EXCLUDE	fung:ascomycetes	61	Sarocladium strictum
+ptg001877l	1	32332	32332	EXCLUDE	fung:ascomycetes	86	Sarocladium strictum
