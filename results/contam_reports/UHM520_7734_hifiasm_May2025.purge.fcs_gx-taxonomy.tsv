@@ -1,0 +1,5 @@
+##[["FCS genome report", 2, 1], {"git-rev": "v0.4.0", "run-date": "Wed Jun  4 10:59:25 2025", "db": {"build-date": "2023-01-24", "seqs": 3025824, "Gbp": 709.264}, "run-info": {"agg-cvg": 0.230688, "asserted-div": "fung:fungi", "inferred-primary-divs": ["fung:fungi"], "corrected-primary-divs": ["fung:fungi"]}}]
+#seq_id	start_pos	end_pos	seq_len	action	div	agg_cont_cov	top_tax_name
+ptg000056l	1	18525	18525	EXCLUDE	fung:ascomycetes	98	Sarocladium strictum
+ptg001371l	1	8660	8660	EXCLUDE	fung:ascomycetes	93	Sarocladium strictum
+ptg002410l	1	13505	13505	EXCLUDE	fung:ascomycetes	91	Sarocladium brachiariae

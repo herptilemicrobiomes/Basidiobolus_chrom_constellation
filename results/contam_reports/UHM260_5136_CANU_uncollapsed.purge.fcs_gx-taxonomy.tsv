@@ -1,0 +1,7 @@
+##[["FCS genome report", 2, 1], {"git-rev": "v0.4.0", "run-date": "Wed Jun  4 10:59:25 2025", "db": {"build-date": "2023-01-24", "seqs": 3025824, "Gbp": 709.264}, "run-info": {"agg-cvg": 0.296027, "asserted-div": "fung:fungi", "inferred-primary-divs": ["fung:fungi"], "corrected-primary-divs": ["fung:fungi"]}}]
+#seq_id	start_pos	end_pos	seq_len	action	div	agg_cont_cov	top_tax_name
+tig00000776	1	72124	72124	EXCLUDE	prok:b-proteobacteria	56	Mycetohabitans rhizoxinica
+tig00001512	1	16856	74103	TRIM	prok:firmicutes	12	Paenibacillus germinis
+tig00002180	1	1255	1255	EXCLUDE	virs:prokaryotic viruses	95	Campylobacter phage CJLB-4
+tig00003263	1	9070	116946	TRIM	prok:b-proteobacteria	20	Mycetohabitans rhizoxinica
+tig00003965	1	16054	54052	TRIM	prok:firmicutes	13	Paenibacillus germinis
