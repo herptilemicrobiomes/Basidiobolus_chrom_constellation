@@ -1,0 +1,93 @@
+2.2825	32	32	no rank	0	unclassified
+97.7175	1370	51	no rank	1	root
+94.0799	1319	53	no rank	131567	  cellular organisms
+89.5863	1256	304	superkingdom	2759	    Eukaryota
+67.8317	951	4	clade	33154	      Opisthokonta
+67.5464	947	536	kingdom	4751	        Fungi
+28.1740	395	25	no rank	112252	          Fungi incertae sedis
+18.4023	258	42	phylum	1913638	            Zoopagomycota
+15.1926	213	3	subphylum	1264859	              Entomophthoromycotina
+14.9786	210	0	class	1399768	                Basidiobolomycetes
+14.9786	210	0	order	1264872	                  Basidiobolales
+14.9786	210	0	family	4858	                    Basidiobolaceae
+14.9786	210	0	genus	4859	                      Basidiobolus
+14.9786	210	0	species	423460	                        Basidiobolus meristosporus
+14.9786	210	210	strain	1314790	                          Basidiobolus meristosporus CBS 931.73
+0.2140	3	0	subphylum	451828	              Kickxellomycotina
+0.1427	2	0	class	2219693	                Harpellomycetes
+0.1427	2	1	order	61421	                  Harpellales
+0.0713	1	0	family	4883	                    Legeriomycetaceae
+0.0713	1	1	genus	4888	                      Smittium
+0.0713	1	0	class	2219690	                Kickxellomycetes
+0.0713	1	0	order	4861	                  Kickxellales
+0.0713	1	0	family	4862	                    Kickxellaceae
+0.0713	1	0	genus	4863	                      Coemansia
+0.0713	1	0	species	61392	                        Coemansia reversa
+0.0713	1	1	strain	763665	                          Coemansia reversa NRRL 1564
+7.9173	111	1	phylum	1913637	            Mucoromycota
+7.7033	108	0	subphylum	451507	              Mucoromycotina
+7.5606	106	0	class	2212704	                Umbelopsidomycetes
+7.5606	106	0	order	1913639	                  Umbelopsidales
+7.5606	106	0	family	1403793	                    Umbelopsidaceae
+7.5606	106	0	genus	64561	                      Umbelopsis
+7.5606	106	106	species	91625	                        Umbelopsis isabellina
+0.0713	1	0	class	2212702	                Endogonomycetes
+0.0713	1	0	order	4869	                  Endogonales
+0.0713	1	0	family	4870	                    Endogonaceae
+0.0713	1	0	genus	2052799	                      Jimgerdemannia
+0.0713	1	1	species	994334	                        Jimgerdemannia flammicorona
+0.0713	1	0	class	2212703	                Mucoromycetes
+0.0713	1	0	order	4827	                  Mucorales
+0.0713	1	1	suborder	1344963	                    Mucorineae
+0.1427	2	0	subphylum	214504	              Glomeromycotina
+0.1427	2	1	class	214506	                Glomeromycetes
+0.0713	1	0	order	36750	                  Glomerales
+0.0713	1	0	family	36751	                    Glomeraceae
+0.0713	1	0	genus	1129544	                      Rhizophagus
+0.0713	1	1	species	94130	                        Rhizophagus clarus
+0.0713	1	0	phylum	4761	            Chytridiomycota
+0.0713	1	0	no rank	2683659	              Chytridiomycota incertae sedis
+0.0713	1	0	class	451435	                Chytridiomycetes
+0.0713	1	0	order	451442	                  Rhizophydiales
+0.0713	1	0	family	451451	                    Terramycetaceae
+0.0713	1	0	genus	451452	                      Boothiomyces
+0.0713	1	1	species	261099	                        Boothiomyces macroporosus
+1.1412	16	13	subkingdom	451864	          Dikarya
+0.1427	2	0	phylum	4890	            Ascomycota
+0.1427	2	0	clade	716545	              saccharomyceta
+0.0713	1	0	subphylum	147537	                Saccharomycotina
+0.0713	1	0	class	4891	                  Saccharomycetes
+0.0713	1	1	order	4892	                    Saccharomycetales
+0.0713	1	0	subphylum	147538	                Pezizomycotina
+0.0713	1	0	clade	716546	                  leotiomyceta
+0.0713	1	0	clade	715989	                    sordariomyceta
+0.0713	1	0	class	147550	                      Sordariomycetes
+0.0713	1	0	subclass	222543	                        Hypocreomycetidae
+0.0713	1	0	order	5125	                          Hypocreales
+0.0713	1	0	family	34397	                            Clavicipitaceae
+0.0713	1	0	genus	5529	                              Metarhizium
+0.0713	1	1	species	92629	                                Metarhizium album
+0.0713	1	0	phylum	5204	            Basidiomycota
+0.0713	1	0	subphylum	5302	              Agaricomycotina
+0.0713	1	1	class	155619	                Agaricomycetes
+0.0713	1	0	kingdom	33090	      Viridiplantae
+0.0713	1	0	phylum	35493	        Streptophyta
+0.0713	1	0	subphylum	131221	          Streptophytina
+0.0713	1	0	clade	3193	            Embryophyta
+0.0713	1	0	clade	58023	              Tracheophyta
+0.0713	1	0	clade	78536	                Euphyllophyta
+0.0713	1	0	clade	58024	                  Spermatophyta
+0.0713	1	0	class	3398	                    Magnoliopsida
+0.0713	1	0	clade	1437183	                      Mesangiospermae
+0.0713	1	0	clade	71240	                        eudicotyledons
+0.0713	1	0	clade	91827	                          Gunneridae
+0.0713	1	1	clade	1437201	                            Pentapetalae
+0.7133	10	0	superkingdom	2	    Bacteria
+0.7133	10	0	clade	1783270	      FCB group
+0.7133	10	0	clade	68336	        Bacteroidota/Chlorobiota group
+0.7133	10	0	phylum	976	          Bacteroidota
+0.7133	10	0	class	200643	            Bacteroidia
+0.7133	10	0	order	171549	              Bacteroidales
+0.7133	10	0	family	815	                Bacteroidaceae
+0.7133	10	0	genus	816	                  Bacteroides
+0.7133	10	10	species	817	                    Bacteroides fragilis

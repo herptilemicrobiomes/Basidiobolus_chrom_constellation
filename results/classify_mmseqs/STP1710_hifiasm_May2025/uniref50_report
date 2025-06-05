@@ -1,0 +1,105 @@
+4.0493	69	69	no rank	0	unclassified
+95.9507	1635	142	no rank	1	root
+87.6174	1493	84	no rank	131567	  cellular organisms
+82.5117	1406	618	superkingdom	2759	    Eukaryota
+46.0681	785	6	clade	33154	      Opisthokonta
+45.7160	779	517	kingdom	4751	        Fungi
+11.2676	192	63	no rank	112252	          Fungi incertae sedis
+5.7512	98	34	phylum	1913638	            Zoopagomycota
+3.6972	63	1	subphylum	1264859	              Entomophthoromycotina
+3.3451	57	0	class	1399768	                Basidiobolomycetes
+3.3451	57	0	order	1264872	                  Basidiobolales
+3.3451	57	0	family	4858	                    Basidiobolaceae
+3.3451	57	0	genus	4859	                      Basidiobolus
+3.3451	57	0	species	423460	                        Basidiobolus meristosporus
+3.3451	57	57	strain	1314790	                          Basidiobolus meristosporus CBS 931.73
+0.2934	5	0	class	1399770	                Entomophthoromycetes
+0.2934	5	4	order	4857	                  Entomophthorales
+0.0587	1	0	family	34486	                    Ancylistaceae
+0.0587	1	0	genus	2878381	                      Capillidium
+0.0587	1	1	species	181046	                        Capillidium rhysosporum
+0.0587	1	0	subphylum	451828	              Kickxellomycotina
+0.0587	1	0	class	2219693	                Harpellomycetes
+0.0587	1	0	order	61421	                  Harpellales
+0.0587	1	0	family	4883	                    Legeriomycetaceae
+0.0587	1	0	genus	4888	                      Smittium
+0.0587	1	1	species	133385	                        Smittium simulii
+1.7606	30	3	phylum	1913637	            Mucoromycota
+0.7629	13	5	subphylum	451507	              Mucoromycotina
+0.4695	8	0	class	2212703	                Mucoromycetes
+0.4695	8	3	order	4827	                  Mucorales
+0.1761	3	0	family	1344966	                    Phycomycetaceae
+0.1761	3	0	genus	4836	                      Phycomyces
+0.1761	3	0	species	4837	                        Phycomyces blakesleeanus
+0.1761	3	3	strain	763407	                          Phycomyces blakesleeanus NRRL 1555(-)
+0.1174	2	1	suborder	1344963	                    Mucorineae
+0.0587	1	0	family	70408	                      Mycotyphaceae
+0.0587	1	0	genus	64629	                        Mycotypha
+0.0587	1	1	species	64632	                          Mycotypha africana
+0.4695	8	0	subphylum	1137986	              Mortierellomycotina
+0.4695	8	0	class	2212732	                Mortierellomycetes
+0.4695	8	0	order	214503	                  Mortierellales
+0.4695	8	1	family	4854	                    Mortierellaceae
+0.4108	7	0	genus	2779937	                      Podila
+0.4108	7	7	species	78898	                        Podila verticillata
+0.3521	6	0	subphylum	214504	              Glomeromycotina
+0.3521	6	1	class	214506	                Glomeromycetes
+0.2934	5	0	order	36750	                  Glomerales
+0.2934	5	0	family	36751	                    Glomeraceae
+0.2934	5	0	genus	1129544	                      Rhizophagus
+0.2934	5	5	species	94130	                        Rhizophagus clarus
+0.0587	1	0	phylum	4761	            Chytridiomycota
+0.0587	1	1	no rank	2683659	              Chytridiomycota incertae sedis
+4.1080	70	55	subkingdom	451864	          Dikarya
+0.5869	10	4	phylum	5204	            Basidiomycota
+0.3521	6	0	subphylum	5302	              Agaricomycotina
+0.3521	6	2	class	155619	                Agaricomycetes
+0.2347	4	0	no rank	355688	                  Agaricomycetes incertae sedis
+0.2347	4	0	order	36064	                    Cantharellales
+0.2347	4	0	family	5250	                      Ceratobasidiaceae
+0.2347	4	0	genus	1322061	                        Rhizoctonia
+0.2347	4	0	species	456999	                          Rhizoctonia solani
+0.2347	4	0	no rank	1086053	                            Rhizoctonia solani AG-3
+0.2347	4	4	strain	1423351	                              Rhizoctonia solani 123E
+0.2934	5	0	phylum	4890	            Ascomycota
+0.2934	5	0	clade	716545	              saccharomyceta
+0.2934	5	0	subphylum	147538	                Pezizomycotina
+0.2934	5	0	clade	716546	                  leotiomyceta
+0.1761	3	0	clade	715989	                    sordariomyceta
+0.1761	3	0	class	147550	                      Sordariomycetes
+0.1761	3	0	subclass	222543	                        Hypocreomycetidae
+0.1761	3	0	order	5125	                          Hypocreales
+0.1761	3	0	family	34397	                            Clavicipitaceae
+0.1761	3	0	genus	5529	                              Metarhizium
+0.1761	3	3	species	92629	                                Metarhizium album
+0.1174	2	0	class	147547	                    Lecanoromycetes
+0.1174	2	0	clade	1520881	                      OSLEUM clade
+0.1174	2	0	subclass	388435	                        Lecanoromycetidae
+0.1174	2	0	order	388450	                          Peltigerales
+0.1174	2	0	suborder	157824	                            Peltigerineae
+0.1174	2	0	family	48860	                              Peltigeraceae
+0.1174	2	0	genus	48861	                                Peltigera
+0.1174	2	2	species	161986	                                  Peltigera elisabethae
+0.1761	3	0	kingdom	33090	      Viridiplantae
+0.1761	3	0	phylum	35493	        Streptophyta
+0.1761	3	0	subphylum	131221	          Streptophytina
+0.1761	3	2	clade	3193	            Embryophyta
+0.0587	1	0	clade	58023	              Tracheophyta
+0.0587	1	0	clade	78536	                Euphyllophyta
+0.0587	1	0	clade	58024	                  Spermatophyta
+0.0587	1	0	class	3398	                    Magnoliopsida
+0.0587	1	0	clade	1437183	                      Mesangiospermae
+0.0587	1	0	clade	71240	                        eudicotyledons
+0.0587	1	0	clade	91827	                          Gunneridae
+0.0587	1	0	clade	1437201	                            Pentapetalae
+0.0587	1	0	clade	71275	                              rosids
+0.0587	1	1	clade	91835	                                fabids
+0.1761	3	0	superkingdom	2	    Bacteria
+0.1761	3	0	clade	1783270	      FCB group
+0.1761	3	0	clade	68336	        Bacteroidota/Chlorobiota group
+0.1761	3	0	phylum	976	          Bacteroidota
+0.1761	3	0	class	200643	            Bacteroidia
+0.1761	3	0	order	171549	              Bacteroidales
+0.1761	3	0	family	815	                Bacteroidaceae
+0.1761	3	0	genus	816	                  Bacteroides
+0.1761	3	3	species	817	                    Bacteroides fragilis

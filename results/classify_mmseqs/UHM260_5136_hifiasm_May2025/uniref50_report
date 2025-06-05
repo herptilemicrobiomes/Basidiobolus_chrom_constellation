@@ -1,0 +1,80 @@
+0.7675	17	17	no rank	0	unclassified
+99.2325	2198	85	no rank	1	root
+95.3950	2113	23	no rank	131567	  cellular organisms
+94.1761	2086	313	superkingdom	2759	    Eukaryota
+80.0451	1773	59	clade	33154	      Opisthokonta
+77.3363	1713	329	kingdom	4751	        Fungi
+62.2122	1378	222	no rank	112252	          Fungi incertae sedis
+49.3002	1092	72	phylum	1913638	            Zoopagomycota
+43.0248	953	5	subphylum	1264859	              Entomophthoromycotina
+42.5734	943	0	class	1399768	                Basidiobolomycetes
+42.5734	943	0	order	1264872	                  Basidiobolales
+42.5734	943	0	family	4858	                    Basidiobolaceae
+42.5734	943	0	genus	4859	                      Basidiobolus
+42.5734	943	0	species	423460	                        Basidiobolus meristosporus
+42.5734	943	943	strain	1314790	                          Basidiobolus meristosporus CBS 931.73
+0.2257	5	0	class	1399770	                Entomophthoromycetes
+0.2257	5	0	order	4857	                  Entomophthorales
+0.2257	5	0	family	34486	                    Ancylistaceae
+0.1354	3	0	genus	34487	                      Conidiobolus
+0.1354	3	0	species	34488	                        Conidiobolus coronatus
+0.1354	3	3	strain	796925	                          Conidiobolus coronatus NRRL 28638
+0.0903	2	0	genus	2878381	                      Capillidium
+0.0903	2	2	species	181046	                        Capillidium rhysosporum
+3.0248	67	0	subphylum	451828	              Kickxellomycotina
+3.0248	67	0	class	2219690	                Kickxellomycetes
+3.0248	67	0	order	4861	                  Kickxellales
+3.0248	67	0	family	4862	                    Kickxellaceae
+3.0248	67	67	genus	4863	                      Coemansia
+2.4379	54	3	phylum	1913637	            Mucoromycota
+2.2122	49	0	subphylum	214504	              Glomeromycotina
+2.2122	49	0	class	214506	                Glomeromycetes
+2.1670	48	2	order	214509	                  Diversisporales
+1.2641	28	0	family	308925	                    Diversisporaceae
+1.2641	28	0	genus	308926	                      Diversispora
+1.2641	28	28	species	1348612	                        Diversispora epigaea
+0.8126	18	0	family	36753	                    Gigasporaceae
+0.7675	17	0	genus	940663	                      Racocetra
+0.7675	17	17	species	60492	                        Racocetra fulgida
+0.0451	1	0	genus	4873	                      Gigaspora
+0.0451	1	1	species	4874	                        Gigaspora margarita
+0.0451	1	0	order	36750	                  Glomerales
+0.0451	1	0	family	36751	                    Glomeraceae
+0.0451	1	0	genus	1129544	                      Rhizophagus
+0.0451	1	1	species	94130	                        Rhizophagus clarus
+0.0903	2	0	subphylum	1137986	              Mortierellomycotina
+0.0903	2	0	class	2212732	                Mortierellomycetes
+0.0903	2	0	order	214503	                  Mortierellales
+0.0903	2	1	family	4854	                    Mortierellaceae
+0.0451	1	0	genus	2779861	                      Linnemannia
+0.0451	1	0	species	310910	                        Linnemannia elongata
+0.0451	1	1	strain	1314771	                          Linnemannia elongata AG-77
+0.4515	10	0	phylum	4761	            Chytridiomycota
+0.4515	10	0	no rank	2683659	              Chytridiomycota incertae sedis
+0.4515	10	0	class	451435	                Chytridiomycetes
+0.4515	10	0	order	642598	                  Lobulomycetales
+0.4515	10	0	family	642599	                    Lobulomycetaceae
+0.4515	10	0	genus	642605	                      Clydaea
+0.4515	10	10	species	447962	                        Clydaea vesicula
+0.2709	6	3	subkingdom	451864	          Dikarya
+0.0903	2	1	phylum	4890	            Ascomycota
+0.0451	1	0	clade	716545	              saccharomyceta
+0.0451	1	0	subphylum	147538	                Pezizomycotina
+0.0451	1	1	clade	716546	                  leotiomyceta
+0.0451	1	0	phylum	5204	            Basidiomycota
+0.0451	1	0	subphylum	5302	              Agaricomycotina
+0.0451	1	0	class	155619	                Agaricomycetes
+0.0451	1	0	no rank	355688	                  Agaricomycetes incertae sedis
+0.0451	1	0	order	452342	                    Russulales
+0.0451	1	0	family	40458	                      Hericiaceae
+0.0451	1	1	genus	40459	                        Hericium
+0.0451	1	1	kingdom	33208	        Metazoa
+0.1806	4	2	superkingdom	2	    Bacteria
+0.0903	2	0	clade	1783270	      FCB group
+0.0903	2	0	clade	68336	        Bacteroidota/Chlorobiota group
+0.0903	2	0	phylum	976	          Bacteroidota
+0.0903	2	0	class	200643	            Bacteroidia
+0.0903	2	0	order	171549	              Bacteroidales
+0.0903	2	0	family	815	                Bacteroidaceae
+0.0903	2	0	genus	816	                  Bacteroides
+0.0903	2	2	species	817	                    Bacteroides fragilis
